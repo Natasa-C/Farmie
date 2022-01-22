@@ -31,7 +31,7 @@ aplicație, folosind geolocația, și sunt actualizate după fiecare modificare 
 este calculată folosind coordonatele centrului poligonului.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57111995/150639520-0a71c749-2cc6-48b5-b7c6-c34b85029c01.png" width="800" height="500"/>
+  <img src="https://user-images.githubusercontent.com/57111995/150639666-ae93250a-ced2-4a82-9c4f-a7136eeacbdb.png" width="800" height="500"/>
 </p>
 
 ### Obiective
@@ -43,7 +43,7 @@ informate, care să ajute fermierii să se dezvolte mai rapid și în mod durabi
 - să utilizeze un număr cât mai mic de resurse din partea utilizatorilor
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57111995/150639554-8ddc5f3e-bff4-494f-924d-94a23d3a0805.png" width="800" height="500"/>
+  <img src="https://user-images.githubusercontent.com/57111995/150639693-e133b2b6-4de4-4cd2-bf36-e7f2f748e970.png" width="800" height="500"/>
 </p>
 
 ### Tehnologii
@@ -69,6 +69,6 @@ aplicația.
 
 ### Paginile și funcționalitățile aplicației
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57111995/150638982-1fe7de3e-d0bd-44a1-a15a-29fe6d04d816.png" width="800" height="500"/>
+  <img src="https://user-images.githubusercontent.com/57111995/150639620-a22ee909-525f-4b57-b1ab-42f7fa4474af.png" width="800" height="500"/>
 </p>
 
