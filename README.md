@@ -30,14 +30,21 @@ precum și detalii auxiliare. Suprafața și locația terenului sunt calculate a
 aplicație, folosind geolocația, și sunt actualizate după fiecare modificare a acestuia. Locația
 este calculată folosind coordonatele centrului poligonului.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57111995/150639520-0a71c749-2cc6-48b5-b7c6-c34b85029c01.png" width="800" height="500"/>
+</p>
+
 ### Obiective
-Pe scurt, obiectivele acestei lucrări sunt:
 - să ofere o unealtă de măsurare a încasărilor și cheltuielilor agricole, precum și grafice
 ale evoluției acestor valori în timp cu scopul realizării unor decizii financiare
 informate, care să ajute fermierii să se dezvolte mai rapid și în mod durabil
 - să ofere o modalitate intuitivă și vizuală de gestionare a terenurilor agricole
 - să ofere posibilitatea de stocare a tuturor informațiilor necesare în cloud
 - să utilizeze un număr cât mai mic de resurse din partea utilizatorilor
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57111995/150639554-8ddc5f3e-bff4-494f-924d-94a23d3a0805.png" width="800" height="500"/>
+</p>
 
 ### Tehnologii
 - ***React*** - bibliotecă JavaScript open source ce permite dezvoltarea de pagini web rapide și dinamice
@@ -46,10 +53,11 @@ informate, care să ajute fermierii să se dezvolte mai rapid și în mod durabi
 organizat sub formă de componente, deci este mai apropiat de structura folosită în React, pe când primul este format din marcatori cărora le sunt aplicate diverse clase)
 MongoDB Atlas - for the global cloud database service used on Heroku
 Heroku - for the hosting and deployment of the website
-- ***Firebase*** - este un BaaS (Backend-as-a-Service) și oferă două servii importante utlizate în cadrul aplicației: Cloud Firestore și Firebase Authentication
+- ***Firebase*** - este un BaaS (Backend-as-a-Service) și oferă două servii importante utlizate în cadrul aplicației: **Cloud Firestore** și **Firebase Authentication**
 - ***Cloud Firestore*** - bază de date NoSQL care permite stocarea (în colecții și documente), interogarea și sincronizarea datelor în cadrul dispozitivelor care le utilizează
 - ***Firebase Authentication*** - serviciu care facilitează utilizarea unor sisteme de autentificare sigure, îmbunătățind în același timp experiența de conectare a utilizatorilor finali. El oferă posibilitatea creării de conturi folosind e-mailul și parola, autentificarea cu
 Google, Twitter, Facebook, și GitHub.
+- ***Google Maps Platform*** - reprezintă un set de API-uri și SDK-uri care permit integrarea Google Maps în aplicații mobile și pagini web sau extragerea de informații din ele. Din cadrul acestei platforme, am utilizat **Maps JavaScript API** pentru integrarea și personalizarea hărților cu poligoane și conținut propriu în cadrul aplicației.
 
 Motivația îmbinării tuturor acestor funcționalități sub forma unei aplicații web a fost
 dorința de a oferi o unealtă independentă de sistemele principale de operare ale computerelor
@@ -58,3 +66,9 @@ aplicației în browser este acela de a se adresa unui număr cât mai mare de f
 aceștia nu vor fi restricționați din punct de vedere tehnologic: orice fermier din orice zonă
 geografică a țării care dispune de un dispozitiv și de o conexiune la Internet poate accesa
 aplicația.
+
+### Paginile și funcționalitățile aplicației
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57111995/150638982-1fe7de3e-d0bd-44a1-a15a-29fe6d04d816.png" width="800" height="500"/>
+</p>
+
