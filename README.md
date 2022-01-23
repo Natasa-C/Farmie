@@ -1,5 +1,8 @@
 # Farmie 
 
+### Demo video
+[Link to demo](https://drive.google.com/file/d/1yc4dGKaKBIo0gYdDLbq-FPKSLS1DbsjK/view?usp=sharing)
+
 ### Prezentare generală
 Farmie este o aplicație web dezvoltată în React ce integrează Firebase pentru
 autentificare și pentru stocarea datelor și platforma Google Maps pentru afișarea hărților și
